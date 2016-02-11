@@ -1,0 +1,226 @@
+ nav #button, nav #buttontwo, nav li button {
+	float: right;
+	list-style: none;
+	padding: 10px;
+	display: inline-block;
+	margin-right: 25px;
+}
+	
+nav #buttontwo {
+	margin-top: -9px;
+}
+nav #button {
+	margin-top: -8px;
+	padding-right: 30px;
+}
+
+
+
+nav img {
+	border-radius: 75%;
+	margin-top: 40px;
+	padding-left: 20px;
+}
+
+span {
+	top: -8px;
+	position: relative;
+	margin-top: 40px;
+	padding-left: 20px;
+}
+
+#button button {
+	color: gray;
+	background-color: white;
+
+}
+
+#buttontwo button {
+	color: white;
+}
+
+li button {
+	background-color: white;
+}
+
+.nav li, #buttontwo {
+	color:white;
+}
+
+.nav img, .nav span {
+	padding-left: 50px;
+	position: relative;
+	float: left;
+	display: inline-block;
+}
+
+
+.column1 {
+	margin-top: 50px;
+	padding-left: 40px;
+}
+
+.b1title {
+	margin-bottom: -80px;
+}
+
+#f2title {
+	margin-top: 40px;
+}
+
+.field1 input  {
+	padding: 10px;
+	border-radius: 10px;
+}
+
+.fields2 input {
+	padding: 10px;
+	border-radius: 10px;
+}
+
+.box1 td {
+	padding-left: 10px;
+}
+
+#shippingbox td #shippingbox input {
+	margin-left: 0;
+}
+
+.box2 {
+	border: solid 1px;
+    border-radius: 10px;
+    list-style: none;
+    position: relative;
+    margin-top: -500px;
+    width: 400px;
+    height: 130px;
+}
+
+.box2 ul {
+	margin-left: -35px;
+}
+
+.box1 {
+	height: 30px;
+
+}
+
+.aoption {
+	padding-bottom: 25px;
+}
+
+
+
+.column2 {
+	float: right;
+	padding-top: -700px;
+	padding-right: 75px;
+}
+
+.box1 {
+	border: solid 1px;
+	border-radius: 10px;
+	width: 500px;
+	height: 100px;
+	margin-top: 100px;
+
+}
+
+.column2 {
+	clear: both;
+}
+
+#b2title {
+	position: relative;
+	top: -500px;
+
+}
+
+.box2 {
+	border: solid 1px;
+	border-radius: 10px;
+	list-style: none;
+	position: relative;
+	margin-top: -500px;
+	width: 450px;
+	height: 130px;
+}
+
+
+
+.box3 {
+	border: solid 1px;
+	border-radius: 10px;
+	margin-top:-15px;
+	width: 450px;
+	position: relative;
+	height: 150px;
+}
+
+.box3 img {
+	border-radius: 10px;
+}
+
+.list1 ul {
+	list-style: none;
+}
+
+.list2 ul {
+	list-style: none;
+}
+
+.b3button button {
+	border-radius: 10px;
+    background-color: #32A468;
+    padding: 10px;
+    float: right;
+    margin-right: 85px;
+    margin-top: 20px;
+    width: 450px;
+    color: white;
+}
+
+.box3 button {
+	padding-left: 80px;
+}
+
+.list1 {
+	list-style: none;
+	float: left;
+}
+
+.list2 {
+	list-style: none;
+	float: right;
+
+
+
+}
+
+#b3button {
+	width: 500px;
+}   
+
+.poptions {
+	list-style: none;
+	border-bottom: solid 1px;
+	background-color: white;
+	padding-left: -10px;
+
+} 
+
+.aoption {
+	background-color: #FAFCFB;
+	list-style: none;
+	padding-top: 25px;
+}
+
+.simage {
+	float: left;
+
+}
+
+#background,
+#sbackground {
+	border-top: solid 1px;
+}
