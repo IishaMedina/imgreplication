@@ -3,7 +3,8 @@
 	list-style: none;
 	padding: 10px;
 	display: inline-block;
-	margin-right: 25px;
+	margin-top: -59px;
+	margin-left: -2px;
 }
 	
 nav #buttontwo {
@@ -19,7 +20,7 @@ nav #button {
 nav img {
 	border-radius: 75%;
 	margin-top: 40px;
-	padding-left: 20px;
+	padding-left: 5px;
 }
 
 span {
@@ -52,6 +53,10 @@ li button {
 	position: relative;
 	float: left;
 	display: inline-block;
+}
+
+ul {
+	list-style: none;
 }
 
 
@@ -223,4 +228,88 @@ li button {
 #background,
 #sbackground {
 	border-top: solid 1px;
+}
+
+@media (max-width: 1125px) {
+	.column2 {
+		float: none;
+	}
+}
+
+@media (max-width: 320px) {
+	#b2title {
+		margin-top: 224%;
+	}
+}
+
+@media (max-width: 320px) {
+	.box2 {
+		width: 131%;
+    	height: 85%;
+	}
+}
+
+@media (max-width: 320px) {
+	.simage {
+		visibility: hidden;
+
+	}
+}
+
+@media (max-width: 320px) {
+	.list1 {
+		margin-left: -27%;
+
+	}
+}
+
+@media (max-width: 320px) {
+	.list2 {
+		margin-left: 2%;
+	}
+}
+
+@media (max-width: 320px) {
+	.box3 {
+		width: 130%;
+	}
+}
+
+@media (max-width: 320px) {
+	.b3button button {
+		float: none;
+    	width: 130%;
+
+	}
+}
+
+@media (max-width: 445px) {
+	nav {
+		visibility: hidden;
+	}
+}
+
+@media (max-width: 495px) {
+	.column1 {
+		margin-top: -31%;
+    	margin-left: -11%;
+	}
+}
+
+@media (max-width: 498px) {
+	.field1 input {
+		width: 87%;
+	}
+}
+
+@media (max-width: 506px) {
+	.fields2 input {
+		width: 87%;
+	}
+}
+
+@media (max-width: 553px) {
+	.box1 {
+		    width: 97%;
+	}
 }
